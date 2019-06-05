@@ -1,0 +1,58 @@
+.course-temes {
+	text-align: left;
+	list-style: disc;
+	width: 90%;
+	max-width: 170px;
+	display: block;
+	margin: auto;
+    color: #7f7f7f;
+    line-height: 1.8;
+    font-size: 15px;	
+}
+
+.feature_part {
+	margin-bottom: 100px;
+}
+
+.single_feature,
+.single_feature_part {
+	min-height: 340px;
+	margin-bottom: 20px;
+}
+.learning_part {
+	padding-bottom: 50px;
+}
+.advance_feature.learning_part {
+	padding-bottom: 50px;
+}
+
+.blog_part.section_padding {
+	padding-top: 100px;
+	padding-bottom: 50px;
+
+}
+.advance_feature.learning_part {
+	padding-top: 100px;
+	padding-bottom: 50px;
+	
+}
+.footer-area {
+	padding-top: 0px;
+}
+.footer-area .copyright_part_text {
+	margin-top: 30px;
+}
+.blog_details {
+	box-shadow: none;
+}
+.logo-img {
+	width: 165px;
+	
+}
+.learning_part .learning_member_text .clist li{
+	display: block;
+}
+
+#escribenos {
+	padding-bottom: 300px;
+}

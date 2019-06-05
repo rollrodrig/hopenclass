@@ -1,0 +1,85 @@
+https://colorlib.com/wp/templates/
+hopenClass
+
+TODOS PODEMOS APRENDER A PROGRAMAR
+Aprende a programar gratis.
+
+
+Curso gratuito de programación.
+
+
+Temas
+Conceptos básicos de programación
+
+Bloque 1
+Introducción 
+<li>Programación</li>
+<li>Qué es?</li>
+<li>Cómo se usa?</li>
+<li>Web</li>
+<li>Tecnologías más usadas</li>
+<li>Mercado laboral</li>
+
+Bloque 2
+WEB
+<li>HTML</li>
+<li>CSS</li>
+<li>Introducción a javacript</li>
+<li>jQuery</li>
+
+Bloque 3
+Servidores
+- FTP
+- hosting compartido
+- la nube
+- git
+
+Bloque 4
+Fundamentos de programación	
+- Variables
+- Primitivos / no primitivos
+- Operadores
+- Funciones
+- Parametros
+
+Bloque 5
+Estructura de datos
+- Array
+- Objectos
+
+Bloque 6
+Programación orientada a objectos (POO)
+- POO en el mundo real
+- Clases
+- Métodos
+- Propiedades
+
+Bloque 7
+- Enum	
+- Interface
+- Clases Abstractas
+
+Bloque 8
+Javascript a profundidad
+- this
+- promises
+- prototype
+- programaicón funcional
+- async await
+
+Bloque 9
+Pruebas unitarias
+- Chai
+- Escribe código que valida tu código
+
+Bloque 9
+- Patrones de diseño con javascript
+
+
+
+
+
+
+
+
+

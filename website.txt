@@ -13,22 +13,23 @@ Conceptos básicos de programación
 
 Bloque 1
 Introducción 
-<li>Programación</li>
-<li>Qué es?</li>
-<li>Cómo se usa?</li>
-<li>Web</li>
-<li>Tecnologías más usadas</li>
-<li>Mercado laboral</li>
+Programación
+Qué es?
+Cómo se usa?
+Web
+Tecnologías más usadas
+Mercado laboral
 
 Bloque 2
 WEB
-<li>HTML</li>
-<li>CSS</li>
-<li>Introducción a javacript</li>
-<li>jQuery</li>
+HTML
+CSS
+Introducción a javacript
+jQuery
 
 Bloque 3
 Servidores
+- SSL
 - FTP
 - hosting compartido
 - la nube

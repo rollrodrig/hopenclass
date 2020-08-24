@@ -1,0 +1,227 @@
+Bloque 1
+- Introducción
+- Programación
+- Qué es?
+- Cómo se usa?
+- Web
+- Tecnologías más usadas
+- Mercado laboral
+
+Bloque 2
+Maquetación
+- Regla de oro
+	Si abres algo, cierralo inmediatamente
+	Si algo falla detente inmediatamente
+- Html
+	- etiquetas más usadas
+		div, img, span
+		article, nav, footer, section
+	- enlazar archivos externos
+		css
+		javascript
+- Css
+	- selectores
+		tag
+		id
+		clase
+		seudo selectores
+	- css rules
+		box-sizing
+		position
+		margin
+		padding
+		float
+		flex
+		width
+	- Introducción a los frameworks css
+		bootstrap
+		bulma
+		flycss
+
+- Responsive design
+	media query
+- Scss
+	- mixin
+- Introducción a javacript
+- jQuery
+	introducción a los frameworks javascript
+	Qué es y para que sirve
+- Taller
+	- maquetando una web responsive
+
+Bloque 3
+Servidores
+- Git
+	qué es	
+	creando una cuenta git
+	usando git en nuestro proyecto
+	ramas
+	commit
+	git flow
+- SSL
+- FTP
+- hosting compartido
+	godaddy
+- la nube
+	qué es
+	digital ocean
+	amazon aws
+- amazon S3
+	creando una cuenta S3
+- Taller
+	publicando nuestra maquetación en S3
+
+
+Bloque 4
+Fundamentos de programación
+- Operadores
+	+
+	-
+	=
+- Declaración de variables
+	var
+	let
+	const
+- Primitivos
+	number
+	boolean
+	string
+	undefined
+	null
+- No primitivas
+	array
+	object
+- Primitivos vs no primitivos
+- Condicionales
+	- if else
+		mayor y mayor igual (>, >=)
+		menor y menor igual (<, <=)
+		&& (and)
+		|| (or)
+		== (Equality)
+		=== (Strict Equality)
+	- switch case
+	- ternary operator
+- Iteradores
+	for break
+	while
+	do while
+- Hoisting
+- funciones
+	qué es una función?
+	function declaration
+	function expression
+	arrow function
+	contexto de una función (scope)
+	return and void
+	parametros
+		requeridos
+		opcionales
+		default values
+
+- Taller
+	Creando nuestro primero framework
+	Publicando el framework en github
+
+Bloque 5
+Estructura de datos
+- Array
+	qué es?
+	crear un array
+	acceder elementos de un array
+	modificar un array
+		agregar
+		eliminar
+		actualizar
+	recorrer un array
+		for
+		map
+- Objectos
+	qué es?
+	crear un objeto
+		new operator
+		literal sintax
+	acceder elementos de un objeto
+		dot notation
+		string notation
+	modificar
+		agregar
+		eliminar
+		actualizar
+	recorrer un objeto
+		forin
+- Referencia
+	Entender la referencia de valores
+	ejemplo referencia con objectos
+	ejemplo referencia con array
+- Taller
+	Sistema de usuarios de una empresa - parte 1
+
+
+Bloque 6
+Programación orientada a objectos (POO)
+- Qué es?
+- POO en el mundo real
+- Clases
+- Métodos
+	public
+	private
+	protected
+	static
+- Propiedades
+	public
+	private
+	protected
+- Ejemplos prácticos
+- Taller
+	Sistema de usuarios de una empresa - parte 2
+
+Bloque 7
+- Enum
+- Herencias
+- Interface
+- Abstractas Override
+- Taller
+	Sistema de usuarios de una empresa - parte 3
+
+Bloque 8
+Javascript in deep
+- function constructor
+- prototype
+- bind apply call
+- this
+- events
+- Mutability
+- clousure
+- curriying
+- programación funcional
+- las funcione son objetos
+- Inmediately invoked function expression (IIFFE)
+- callback
+- promises
+- async await
+- callback vs promises
+
+
+
+Bloque 9
+UnitTest
+- chai
+- mocha
+- jest
+
+Bloque 10
+Patrones de diseño
+	Singleton
+	Factory
+	Observer
+	function factory
+
+
+
+
+
+
+
+
+
